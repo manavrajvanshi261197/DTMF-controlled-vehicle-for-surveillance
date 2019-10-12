@@ -1,6 +1,6 @@
 # DTMF-controlled-vehicle-for-surveillance
 
-Connect the DTMF Module to the Arduino and update the connection pins in the code.
+Connect the DTMF Module to the Arduino and update the connection pins in the code (A, B, C, D).
 Use the Motor Driver Board (L293D) in ACTIVE LOW state.
 If the vehicle moves in the opposite directions from what is specified in the code, then -
   1) Either Swap the motor connections
